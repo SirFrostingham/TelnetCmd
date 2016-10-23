@@ -1,7 +1,7 @@
 TelnetCmd - Automate telnet commands
 
 	- Run telnet commands and disconnect
-	- I created and used this to automate Emperyion Galactic Survival server
+	- I created this application to automate Emperyion Galactic Survival server
 	- For server admins or power users
 
 	
